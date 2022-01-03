@@ -1,2 +1,3 @@
 # kvast
-HTML Academy test case - https://htmlacademy.ru/courses/165
+
+Сайт производителя крафтового кваса "Кваст" 
